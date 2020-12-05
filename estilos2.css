@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+body{text-align: center;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";background-image: url("work-1515801_1920.jpg");}
+.actividades{width: 40%;display: table-column;position: relative;left: 30%;}
+h1{color: rgba(2,62,91,1.00)}
